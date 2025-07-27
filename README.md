@@ -16,7 +16,6 @@ This project implements a **Convolutional Neural Network (CNN)** for classifying
 
 4. **Training & Evaluation**
    - Use `train.py` to train the model.
-   - Use `evaluate.py` to test the model and visualize results.
 
 ---
 ### Install dependencies
